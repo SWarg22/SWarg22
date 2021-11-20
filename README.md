@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SWarg22
+- 👀 I’m interested in sports analytics
+- 🌱 I’m currently learning Data Analytics and The Ohio State University
+- 📫 How to reach me: samueljwarg@gmail.com
